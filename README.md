@@ -1,4 +1,4 @@
-[![image alt text](https://github.com/Cute-Ducky/dotfiles/blob/main/images/dotfiles.PNG)]
+![image alt text](https://github.com/Cute-Ducky/dotfiles/blob/main/images/dotfiles.PNG)
 <h1 align="center">Welcome to my nixos ❄️ dotfiles </h1>
 <p>
 </p>
