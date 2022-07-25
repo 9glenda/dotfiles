@@ -1,4 +1,4 @@
-![image alt text](https://github.com/Cute-Ducky/dotfiles/blob/main/images/dotfiles.PNG)
+![image alt text](https://github.com/Cute-Ducky/dotfiles/blob/main/images/logo.PNG)
 <h1 align="center">Welcome to my nixos ❄️ dotfiles </h1>
 <p>
 </p>
@@ -70,7 +70,7 @@ Contact me in a issue and we can discuss the details. Obviosly this service is f
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/9glenda/.dotfiles/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/9glenda/dotfiles/issues). 
 
 ## Show your support
 
