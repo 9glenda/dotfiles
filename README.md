@@ -9,7 +9,7 @@
 ### ❄️ [nixos](https://nixos.org/)
 
 # Getting started:
-##Git clone the repo to the ~/.dotfiles folder
+## Git clone the repo to the ~/.dotfiles folder
 ```sh
 git clone https://github.com/Cute-Ducky/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
